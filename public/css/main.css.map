@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA,IAAK,CACD,KAAK,CAAE,GAAG,CACV,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,MAAM",
-"sources": ["../../sass/main.scss"],
-"names": [],
-"file": "main.css"
-}
+{"version":3,"sourceRoot":"","sources":["../../sass/main.scss","../../sass/_vars.scss"],"names":[],"mappings":"AAEA,yBACI,KACI,iBCJU,QDMd,GACI","file":"main.css"}

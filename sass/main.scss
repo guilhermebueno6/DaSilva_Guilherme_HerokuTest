@@ -1,5 +1,11 @@
-main {
-    width: 90%;
-    text-align: center;
-    margin: 0 auto;
+@import '_vars';
+
+@media(min-width:360px){
+    body{
+        background-color:$playstationBlue;
+    }
+    h1{
+        font-size: 30px;
+    }
+
 }
